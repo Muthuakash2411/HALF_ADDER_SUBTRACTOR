@@ -38,7 +38,7 @@ Half Adder
 <img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/6007fdb3-41e8-47e6-a875-3c03832c05e9" />
 
 Half Subtractor
-<img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/78b7bdc1-7063-40bd-9697-3eed45362be6" />
+<img width="436" height="248" alt="image" src="https://github.com/user-attachments/assets/36d1687e-059e-4457-86ce-93c092b5a0f9" />
 
 **Procedure**
 
