@@ -81,8 +81,12 @@ endmodule
 
 ````
 **RTL Schematic**
+
+
 Half Adder:
 <img width="855" height="346" alt="image" src="https://github.com/user-attachments/assets/538b2dd8-8085-4f32-916b-b0950f338508" />
+
+
 Half Subtractor:
 <img width="827" height="368" alt="image" src="https://github.com/user-attachments/assets/2e45838c-821c-4461-beae-0460b8d54b19" />
 
