@@ -88,8 +88,12 @@ Half Subtractor:
 
 
 **Output/TIMING Waveform**
+
+
 Half Adder:
 <img width="1919" height="475" alt="image" src="https://github.com/user-attachments/assets/9465c66a-ff8f-4221-bf09-3cac4272f2fa" />
+
+
 
 Half Subtractor:
 <img width="1919" height="341" alt="image" src="https://github.com/user-attachments/assets/7f05b73c-3d6d-44a0-ad4e-e72008b99775" />
